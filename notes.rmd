@@ -1,5 +1,5 @@
 ---
-title: "Data description"
+title: "AGILE PhD school"
 author: "Daiga Paršova"
 date: "11/28/2019"
 output:
@@ -14,8 +14,7 @@ The topic of the PhD research is "Assessing the Spatiotemporal Variability in En
 The data vizualiations will be produced via open-source software. However, it must be done in a way that particular individuals cannot be identified from the visualiation. On the other hand, if presenting the whole dataset, it is a challenge to do it in understandable way.
 Below, an example on Tartu bicycle sharing system is presented. These are bike rides taking place in July, 2019. This data is available publicly. Each color indicates a separate ride. However, it is not possible to distinguish a separate route. The burnout effect is used to illustrate the busiest streets.
 
-
-![GPS data vizualization example: Tartu bicycle sharing system, July 2019](Tartu_bikes.png)
+![GPS data vizualization (bad) example: Tartu bicycle sharing system, July 2019](Tartu_bikes.png)
 
 Regarding the vizualiation of air pollution and noise level data, traditionally a grid is used and the data is aggregated into each grid cell (see the example below). However, in nature air pollution levels do not change sharply. This is not just a question about vizualization, but also about the precision of the results, as air/noise pollution values are correlated with human mobility. 
 

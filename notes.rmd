@@ -1,10 +1,15 @@
 ---
-title: "AGILE PhD school"
-author: "Daiga Paršova"
-date: "11/28/2019"
+title: "Assessing the Spatiotemporal Variability in Environmental Exposure"
+author:
+  - name: Daiga Paršova
+    affiliation: University of Tartu, Estonia
+    email: daiga.parsova@ut.ee
+    orcid: 0000-0000-0000-0000
+abstract:
+   The objective of the research in 4 year period is to reach a better understanding of the associations between urban mobility and environmental exposure via developing methodology of assessing dynamic exposure to urban greenspaces and air and noise pollution.
 output:
-  html_document: default
-  pdf_document: default
+  ceurticles::twocolpceurws_article
+bibliography: samplebib.bib
 ---
 
 ## PhD research topic and objective

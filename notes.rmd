@@ -4,7 +4,6 @@ author:
   - name: Daiga Paršova
     affiliation: University of Tartu, Estonia
     email: daiga.parsova@ut.ee
-    orcid: 0000-0000-0000-0000
 abstract:
    The objective of the research in 4 year period is to reach a better understanding of the associations between urban mobility and environmental exposure via developing methodology of assessing dynamic exposure to urban greenspaces and air and noise pollution.
 output:
